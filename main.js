@@ -4,6 +4,7 @@ const students = {
     rollNo: 220004198
 }
 const great = {
-    
+  console.log("greetings.....")
+   
 }
     
